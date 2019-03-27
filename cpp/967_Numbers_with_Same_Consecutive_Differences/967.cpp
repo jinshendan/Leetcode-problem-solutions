@@ -21,4 +21,4 @@ public:
             dfs(N,K, 1, x, ans);  
         return ans;
     }
-};
+}; 
